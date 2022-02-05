@@ -7,10 +7,14 @@ sites:
     url: https://samsuitecs.com
   - name: Sistepago
     url: https://sistepago.xyz
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Sistepago.com
+    url: https://sistepago.com
+  - name: El Patio de los Corotos
+    url: https://elpatiodeloscorotos.com
+  - name: Vebella soft
+    url: https://vebellasoft.net
+  - name: Sam Suite Libro Compras 
+    url: https://lc.samsuitecs.com
 assignees:
   - samcsval
 status-website:
