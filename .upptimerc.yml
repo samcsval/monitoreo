@@ -15,6 +15,8 @@ sites:
     url: https://vebellasoft.net
   - name: Sam Suite Libro Compras 
     url: https://lc.samsuitecs.com
+  - name: Sam Suite Fuerza de ventas SMXII 
+    url: https://smxxi.samsuitecs.com
 assignees:
   - samcsval
 status-website:
@@ -22,15 +24,17 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://lc.samsuitecs.com/logo.png
   name: Sam Suite Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Sam Suite Status Systems** es una pagina para monitorear todos nuestros servicios y paginas. De tal manera de informar a nuestros clientes el status de nuestros servidores."
+  introMessage: Sam Suite siempre en la busqueda de mejorar la experiencia de nuetros clientes, implemento esta página donde se monitorean nuestros diferentes servicios, sitios hospedados y clientes atendidos, de tal forma que puedan en cualquier momento visualizar el estatus de sus servicios.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Sam Suite
+      href: https://samsuitecs.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
