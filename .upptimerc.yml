@@ -30,11 +30,11 @@ status-website:
   introMessage: Sam Suite siempre en la busqueda de mejorar la experiencia de nuetros clientes, implementó esta página donde se monitorean nuestros diferentes servicios, sitios hospedados y clientes atendidos, de tal forma que puedan en cualquier momento visualizar el estatus de sus servicios.
   navbar:
     - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: /upptime
     - title: Sam Suite
       href: https://samsuitecs.com
+    - title: Sam Suite Libro de Compra
+      href: https://lc.samsuitecs.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
