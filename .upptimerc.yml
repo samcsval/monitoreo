@@ -26,8 +26,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://lc.samsuitecs.com/logo.png
   name: Sam Suite Status
-  introTitle: "**Sam Suite Status Systems** es una pagina para monitorear todos nuestros servicios y paginas. De tal manera de informar a nuestros clientes el status de nuestros servidores."
-  introMessage: Sam Suite siempre en la busqueda de mejorar la experiencia de nuetros clientes, implemento esta página donde se monitorean nuestros diferentes servicios, sitios hospedados y clientes atendidos, de tal forma que puedan en cualquier momento visualizar el estatus de sus servicios.
+  introTitle: "**Sam Suite Status Systems** permite monitorear todos nuestros servicios y páginas. De tal manera de informar a nuestros clientes el status de nuestros servidores."
+  introMessage: Sam Suite siempre en la busqueda de mejorar la experiencia de nuetros clientes, implementó esta página donde se monitorean nuestros diferentes servicios, sitios hospedados y clientes atendidos, de tal forma que puedan en cualquier momento visualizar el estatus de sus servicios.
   navbar:
     - title: Status
       href: /
