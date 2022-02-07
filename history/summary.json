@@ -94,19 +94,19 @@
     "url": "https://lc.samsuitecs.com",
     "icon": "https://favicons.githubusercontent.com/lc.samsuitecs.com",
     "slug": "sam-suite-libro-compras",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 375,
-    "timeDay": 464,
-    "timeWeek": 375,
-    "timeMonth": 375,
-    "timeYear": 375,
+    "status": "up",
+    "uptime": "98.27%",
+    "uptimeDay": "96.57%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "98.27%",
+    "uptimeYear": "98.27%",
+    "time": 392,
+    "timeDay": 481,
+    "timeWeek": 392,
+    "timeMonth": 392,
+    "timeYear": 392,
     "dailyMinutesDown": {
-      "2022-02-07": 0
+      "2022-02-07": 49
     }
   },
   {
