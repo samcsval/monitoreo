@@ -76,9 +76,9 @@
     "url": "https://vebellasoft.net",
     "icon": "https://favicons.githubusercontent.com/vebellasoft.net",
     "slug": "vebella-soft",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 484,
     "timeMonth": 484,
     "timeYear": 484,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-08": 0
+    }
   },
   {
     "name": "Sam Suite Libro Compras",
@@ -95,11 +97,11 @@
     "icon": "https://favicons.githubusercontent.com/lc.samsuitecs.com",
     "slug": "sam-suite-libro-compras",
     "status": "up",
-    "uptime": "98.56%",
+    "uptime": "98.76%",
     "uptimeDay": "96.57%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "98.56%",
-    "uptimeYear": "98.56%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "98.76%",
     "time": 411,
     "timeDay": 501,
     "timeWeek": 411,
