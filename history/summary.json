@@ -4,18 +4,20 @@
     "url": "https://samsuitecs.com",
     "icon": "https://favicons.githubusercontent.com/samsuitecs.com",
     "slug": "sam-suite",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 458,
     "timeDay": 344,
-    "timeWeek": 458,
+    "timeWeek": 452,
     "timeMonth": 458,
     "timeYear": 458,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-12": 2
+    }
   },
   {
     "name": "Sistepago",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 516,
     "timeDay": 494,
-    "timeWeek": 516,
+    "timeWeek": 503,
     "timeMonth": 516,
     "timeYear": 516,
     "dailyMinutesDown": {}
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 451,
     "timeDay": 360,
-    "timeWeek": 451,
+    "timeWeek": 460,
     "timeMonth": 451,
     "timeYear": 451,
     "dailyMinutesDown": {}
@@ -58,18 +60,20 @@
     "url": "https://elpatiodeloscorotos.com",
     "icon": "https://favicons.githubusercontent.com/elpatiodeloscorotos.com",
     "slug": "el-patio-de-los-corotos",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 431,
     "timeDay": 334,
-    "timeWeek": 431,
+    "timeWeek": 430,
     "timeMonth": 431,
     "timeYear": 431,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-12": 1
+    }
   },
   {
     "name": "Vebella soft",
@@ -77,14 +81,14 @@
     "icon": "https://favicons.githubusercontent.com/vebellasoft.net",
     "slug": "vebella-soft",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
     "time": 512,
     "timeDay": 576,
-    "timeWeek": 512,
+    "timeWeek": 563,
     "timeMonth": 512,
     "timeYear": 512,
     "dailyMinutesDown": {
@@ -96,18 +100,19 @@
     "url": "https://lc.samsuitecs.com",
     "icon": "https://favicons.githubusercontent.com/lc.samsuitecs.com",
     "slug": "sam-suite-libro-compras",
-    "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.46%",
+    "status": "down",
+    "uptime": "99.52%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
     "time": 386,
     "timeDay": 482,
-    "timeWeek": 386,
+    "timeWeek": 392,
     "timeMonth": 386,
     "timeYear": 386,
     "dailyMinutesDown": {
+      "2022-02-12": 1,
       "2022-02-07": 49
     }
   },
@@ -116,17 +121,19 @@
     "url": "https://smxxi.samsuitecs.com",
     "icon": "https://favicons.githubusercontent.com/smxxi.samsuitecs.com",
     "slug": "sam-suite-fuerza-de-ventas-smxii",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 411,
     "timeDay": 455,
-    "timeWeek": 411,
+    "timeWeek": 435,
     "timeMonth": 411,
     "timeYear": 411,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-12": 0
+    }
   }
 ]
