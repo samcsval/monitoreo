@@ -4,10 +4,10 @@
     "url": "https://samsuitecs.com",
     "icon": "https://favicons.githubusercontent.com/samsuitecs.com",
     "slug": "sam-suite",
-    "status": "up",
+    "status": "down",
     "uptime": "98.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.34%",
     "uptimeYear": "98.67%",
     "time": 618,
@@ -16,6 +16,7 @@
     "timeMonth": 648,
     "timeYear": 618,
     "dailyMinutesDown": {
+      "2022-03-15": 1,
       "2022-03-03": 726
     }
   },
