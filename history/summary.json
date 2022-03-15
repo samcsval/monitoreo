@@ -4,10 +4,10 @@
     "url": "https://samsuitecs.com",
     "icon": "https://favicons.githubusercontent.com/samsuitecs.com",
     "slug": "sam-suite",
-    "status": "up",
+    "status": "down",
     "uptime": "98.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "98.34%",
     "uptimeYear": "98.65%",
     "time": 594,
@@ -16,6 +16,7 @@
     "timeMonth": 610,
     "timeYear": 594,
     "dailyMinutesDown": {
+      "2022-03-15": 2,
       "2022-03-03": 726
     }
   },
@@ -60,10 +61,10 @@
     "url": "https://elpatiodeloscorotos.com",
     "icon": "https://favicons.githubusercontent.com/elpatiodeloscorotos.com",
     "slug": "el-patio-de-los-corotos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 498,
@@ -71,7 +72,9 @@
     "timeWeek": 429,
     "timeMonth": 460,
     "timeYear": 498,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-15": 1
+    }
   },
   {
     "name": "Vebella soft",
@@ -101,9 +104,9 @@
     "url": "https://lc.samsuitecs.com",
     "icon": "https://favicons.githubusercontent.com/lc.samsuitecs.com",
     "slug": "sam-suite-libro-compras",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -113,6 +116,7 @@
     "timeMonth": 421,
     "timeYear": 410,
     "dailyMinutesDown": {
+      "2022-03-15": 0,
       "2022-02-07": 49
     }
   },
