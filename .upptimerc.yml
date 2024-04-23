@@ -17,6 +17,10 @@ sites:
     url: https://lc.samsuitecs.com
   - name: Sam Suite Fuerza de ventas SMXII 
     url: https://smxxi.samsuitecs.com
+  - name: Logistic Service
+    url: https://sistepago.xyz/samlogisticservice/odata/Vehiculos
+  - name: Logistic Frontend
+    url: https://logistic.sistepago.xyz/
 assignees:
   - samcsval
 status-website:
